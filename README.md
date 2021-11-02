@@ -2,7 +2,9 @@
 A simple Python script that monitors telemetry from an organization inside of LimaCharlie and adjust the Hue lightbulbs on the network according to tags in the detection telemetry.
 
 All documnentaiton for LimaCharlie can be found here: https://doc.limacharlie.io
-An evovlinv help center built around common tasks can be found here: https://help.limacharlie.io
+
+An evolving help center built around common tasks can be found here: https://help.limacharlie.io
+
 Free online courses for LimaCharlie can be found here: https://edu.limacharlie.io
 
 If you are reading this and send me an email at chris@limacharlie.io I will send you a 
